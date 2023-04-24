@@ -35,9 +35,12 @@
 * [](./src/chapter-19.md)
 * [第20章：责任领域（AORs）](./src/chapter-20.md)
 * [第21章：单点故障](./src/chapter-21.md)
-* [](./src/chapter-22.md)
+* [第22章：关键绩效指标](./src/chapter-22.md)
 
-* [](./src/chapter-3.md)
+* [第24章 反馈](./src/chapter-24.md)
+* [第25章：组织结构](./src/chapter-25.md)
+* [第26章：融资](./src/chapter-26.md)
+
 * [](./src/chapter-3.md)
 * [](./src/chapter-3.md)
 * [](./src/chapter-3.md)
